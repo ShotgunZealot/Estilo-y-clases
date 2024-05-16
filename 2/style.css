@@ -1,0 +1,13 @@
+.item {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.item.clicked {
+    background-color: lightcoral;
+    text-decoration: underline;
+    font-style: italic;
+}

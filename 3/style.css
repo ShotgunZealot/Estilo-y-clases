@@ -1,0 +1,16 @@
+.cel {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 5px;
+    border: 1 px solid #ccc;
+}
+
+input.invalid {
+    border: 2px solid red;
+}
+
+input.valid {
+    border: 2px solid green;
+}

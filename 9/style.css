@@ -1,0 +1,15 @@
+.lista {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lista li {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.lista li.dragging {
+    background-color: #c7ecee;
+}
